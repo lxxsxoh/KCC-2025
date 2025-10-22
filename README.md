@@ -15,7 +15,7 @@ to improve fine-grained wildlife classification under severe data imbalance.
    (예: 노루 Roe Deer vs 고라니 Water Deer)
 
 이 연구에서는 이러한 문제를 동시에 해결하기 위해  
-**Feature Similarity Contrastive Learning (FSCL)** 방식을 제안한다.  
+**Feature Similarity Contrastive Learning** 방식을 제안한다.  
 기존의 **Cross-Entropy Loss**에 **feature-level contrastive loss**를 추가하여  
 클래스 간 구분력을 강화하고, 불균형 데이터에서도 안정적인 학습을 달성한다.
 
