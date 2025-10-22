@@ -32,7 +32,7 @@ to improve fine-grained wildlife classification under severe data imbalance.
 ### 학습 구조 (Architecture)
 
 <p align="center">
-  <img src="docs/model_structure.png" width="600" alt="Proposed Architecture">
+   <img width="757" height="380" alt="image" src="https://github.com/user-attachments/assets/4c8cbb5d-f005-4d84-8aad-7ffd7b50de38" />
 </p>
 
 **Loss 구성**
@@ -79,7 +79,7 @@ $$
 | 1:0.001 | 0.00 | 0.43 | 0.00 | 0.31 |
 
 <p align="center">
-  <img src="docs/result_graph.png" width="500" alt="Accuracy Comparison Graph">
+   <img width="752" height="545" alt="image" src="https://github.com/user-attachments/assets/56a3838f-f213-4556-b55a-7d95ed918358" />
 </p>
 
 우리가 제안한 방법은 심각한 불균형 조건(1:0.001)에서도 안정적인 정확도를 유지하며,  
